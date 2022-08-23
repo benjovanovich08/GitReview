@@ -2,3 +2,7 @@
 /.idea/misc.xml
 /GitReview.iml
 /.idea/.gitignore
+.idea
+out
+*iml
+/.idea/vcs.xml
